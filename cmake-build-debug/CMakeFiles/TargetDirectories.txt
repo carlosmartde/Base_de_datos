@@ -1,0 +1,3 @@
+C:/Users/carlo/CLionProjects/Base_de_datos_clientes/cmake-build-debug/CMakeFiles/Base_de_datos_clientes.dir
+C:/Users/carlo/CLionProjects/Base_de_datos_clientes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carlo/CLionProjects/Base_de_datos_clientes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
